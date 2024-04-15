@@ -39,4 +39,4 @@ javascript
 const request = new MySqliteRequest();
 request.from('students').select('name').where('grade', 'A').run();
 ## Contributing
-Contributions to the MySqliteRequest class are welcome! Please feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
+Contributions to the MySqliteRequest cl
